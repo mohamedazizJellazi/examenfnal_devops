@@ -15,6 +15,7 @@ import java.util.Set;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Worker {
+    //worker
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long idAgent;
